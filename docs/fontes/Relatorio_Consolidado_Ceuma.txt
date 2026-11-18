@@ -1,0 +1,74 @@
+Relatório Consolidado de Diagnóstico de Problemas
+Estudo do Problema & Mapeamento de Campo na Central de Atendimento • CEUMA Renascença
+Parte 1: Estudo do Problema e Dores Gerais da Instituição
+Atrito de Comunicação e Acesso a Responsáveis: Um dos maiores pontos de atrito observados durante a coleta de dados foi a dificuldade de acesso aos setores e a dificuldade de comunicação com os respectivos responsáveis. A excessiva burocracia gerou entraves de comunicação mesmo para uma equipe de desenvolvimento que tinha como objetivo estruturar uma solução — evidenciando que, para o estudante comum, essa barreira é substancialmente maior.
+Falta de Unificação e Burocracia em Chamados: A ausência de unificação dos processos, somada à extensa burocracia na abertura de chamados e protocolos e à ambiguidade nos títulos dos procedimentos na plataforma do aluno, gera frequentemente retrabalho, abertura de chamados desnecessários, congestionamento nos setores e processos redundantes. Esses prejuízos afetam diretamente docentes, discentes e colaboradores administrativos.
+Navegação Espacial e Desorientação Física: Além dos entraves processuais, observa-se expressiva dificuldade de navegação no campus por parte dos estudantes recém-ingressos, especialmente para encontrar salas de aula desconhecidas. Essa mesma dor se manifesta nos discentes veteranos quando precisam se deslocar para áreas que nunca haviam frequentado anteriormente, como setores específicos (exemplo: Achados e Perdidos).
+
+Parte 2: Mapeamento de Campo — Central de Atendimento ao Aluno
+Esta seção detalha o levantamento empírico realizado diretamente no setor de atendimento (Central de Atendimento ao Aluno) do campus Renascença. A Central funciona como o principal elo físico da instituição com o estudante. Os dados e relatos confirmam que cerca de 80% do fluxo presencial decorre de questões financeiras básicas e falhas de comunicação, as quais poderiam ser prevenidas com rotinas informativas claras e canais digitais eficientes.
+
+Área Crítica Comunicação de Vencimentos Sistemas Digitais
+Processos Manuais
+Cultura Presencialista
+Regras Acadêmicas
+
+Problema Detectado na Central
+Desconhecimento da regra do 5º dia útil e ausência de alertas móveis prévios.
+Instabilidade de cache no portal e barreira na triagem WhatsApp ➔ Aplicativo.
+Assinatura semestral de ProUni em livro físico e baixa parcial lenta no FIES.
+Deslocamento ao balcão para realizar serviços que são 100% online desde 2021.
+Mito de que boleto pendente impede prova, ocultando erro de matrícula.
+
+Impacto Operacional no Setor
+Inadimplência não intencional, perda de desconto e filas para reemissão.
+Alunos sem acesso ao boleto e duplicação desnecessária de chamados no app.
+Retenção prolongada de atendentes em conferências manuais demoradas.
+Superlotação crônica em períodos de matrícula e rematrícula.
+Cobrança indevida sobre o setor por bloqueio em ata de exame.
+
+Projeto Inova Ceuma • Diagnóstico de Problemas e Dores de Campo
+
+Página 1 de 3
+
+MANUAL DE SOBREVIVÊNCIA DO ESTUDANTE — CEUMA RENASCENÇA
+
+Relatório Consolidado de Diagnóstico
+
+Detalhamento dos Problemas Diagnosticados na Central
+1. Ineficiência nos Alertas de Vencimento e Perda de Descontos • Ausência de notificações preventivas nos dispositivos móveis: O sistema acadêmico não emite alertas automáticos via
+notificação push ou SMS alertando sobre a proximidade do vencimento da mensalidade. O aviso via WhatsApp só é disparado quando o boleto já se encontra vencido, momento em que o aluno já perdeu o desconto de pontualidade.
+• A confusão crônica com a regra do 5º dia útil: A equipe relatou que calouros e até mesmo estudantes do 4º ao 6º período acreditam que a mensalidade vence sempre em um dia fixo (dia 5 ou dia 7). Quando o 5º dia útil recai em data diferente, o aluno perde o abatimento e se desloca até a Central para reclamar, alegando erro do sistema.
+2. Instabilidade do Portal e Fricção na Triagem Digital • Falhas de cache de navegadores na geração de boletos: Falhas temporárias no cache do navegador do estudante geram
+tela em branco ou erro na geração da linha digitável. Sem orientação para limpar os dados de navegação no celular, o aluno comparece presencialmente à Central apenas para que o assistente imprima ou passe o código de barras.
+• Atrito na triagem do WhatsApp para o Aplicativo: O canal de atendimento via WhatsApp dispara uma mensagem automática encaminhando o aluno para baixar e abrir chamado no aplicativo do Grupo Ceuma. Esse redirecionamento intermediário gera sensação de frustração e abandono, incentivando a ida física ao setor.
+• Duplicação artificial de chamados no aplicativo: Movidos por ansiedade, estudantes abrem solicitações idênticas simultaneamente nas abas 'Financeiro' e 'Acadêmico' do aplicativo, dobrando a fila de atendimento virtual e sobrecarregando a equipe.
+3. Gargalos de Processos Manuais (ProUni e FIES) • Assinatura presencial em livro físico para bolsistas ProUni: A Central de Atendimento do Renascença centraliza as
+renovações de bolsa ProUni de diversos polos (incluindo Belém, Brasília e polos do interior do Maranhão). Os alunos são obrigados a comparecer para assinar fisicamente um único livro compartilhado por curso, em vez de um procedimento digital via Gov.br.
+• Lentidão provocada pela 'Baixa Parcial' no FIES: Quando o estudante atrasa a confirmação do aditamento no sistema do MEC, a mensalidade é lançada apenas com baixa parcial (pela metade). O assistente da Central precisa paralisar o atendimento do balcão para recalcular manualmente as diferenças financeiras entre o valor contratado e o repasse efetivo, retendo a fila presencial.
+4. Cultura Presencialista e Desconhecimento do Autoatendimento • Ida ao setor para processos 100% digitalizados: Embora a universidade tenha migrado seus processos para o ambiente
+online em 2021, um grande número de alunos e pais ainda comparece presencialmente à Central para realizar procedimentos de matrícula e rematrícula, exigindo acompanhamento passo a passo de um atendente.
+• Subutilização da aba Relatórios no portal: Documentos oficiais de alta demanda — como histórico escolar, declaração de quitação anual de débitos e informe de rendimentos para IRPF — estão disponíveis para download imediato no portal. A desinformação generalizada sobre a ferramenta faz com que estudantes enfrentem filas na Central apenas para solicitar impressões básicas.
+5. Distorção Regimental sobre Provas e Inadimplência • Mito do impedimento financeiro em avaliações: A equipe da Central esclareceu enfaticamente que boletos em atraso não
+impedem nenhum aluno de fazer prova. A instituição não adota essa prática, e o débito gera exclusivamente encargos e juros contratuais.
+• Desorientação quanto ao real motivo do bloqueio em ata: O estudante só tem o nome impedido na ata de prova quando não formalizou a matrícula acadêmica no semestre letivo ou por erro de enturmação. A falta de compreensão dessa regra faz com que o aluno vá à Central reclamar de questões financeiras, quando a falha é estritamente acadêmica.
+
+Projeto Inova Ceuma • Diagnóstico de Problemas e Dores de Campo
+
+Página 2 de 3
+
+MANUAL DE SOBREVIVÊNCIA DO ESTUDANTE — CEUMA RENASCENÇA
+
+Relatório Consolidado de Diagnóstico
+
+6. Deslocamento Inútil por Desconhecimento da Cobrança Externa (Cobrafix)
+• Tentativas frustradas de renegociação no balcão da Central: O setor de atendimento não realiza negociações de parcelas antigas em atraso, pois essa cobrança é integralmente terceirizada para a empresa Cobrafix. A falta de clareza sobre essa separação faz com que alunos inadimplentes percam tempo comparecendo à Central, sendo informados no guichê de que devem acionar a assessoria externa.
+
+Parte 3: Comprovação de entrevistas — Central de Atendimento ao Aluno
+
+Figura 1: Entrevista de campo 11/11/26
+Projeto Inova Ceuma • Diagnóstico de Problemas e Dores de Campo
+
+Página 3 de 3
+
+

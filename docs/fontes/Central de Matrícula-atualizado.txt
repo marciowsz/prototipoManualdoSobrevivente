@@ -1,0 +1,54 @@
+UNIVERSIDADE CEUMA — MAPEAMENTO OPERACIONAL E SINALIZAÇÃO
+Relatório Técnico de Setor: Central de Matrícula
+Diagnóstico de Localização, Atendimento, Gargalos e Propostas de Otimização
+
+Objeto de Estudo: Público-Alvo Principal: Foco do Projeto:
+
+Central de Matrícula (Campus Renascença) Alunos Calouros e Ingressantes (Bolsistas e Regulares)
+Resolução de Gargalos de Localização, Fluxo e Orientação Acadêmica
+
+1. IDENTIFICAÇÃO E FINALIDADE DO SETOR
+
+A Central de Matrícula é a unidade administrativa responsável pela formalização do vínculo do estudante com a instituição, pelo suporte inicial referente a bolsas de estudo governamentais e pela emissão de documentos de identificação obrigatórios.
+
+Suporte a Bolsas de Estudo: Processamento e atendimento presencial voltado aos programas PROUNI e FIES em sala dedicada. Identificação Estudantil: Emissão e entrega de crachás institucionais para frequência de aulas, acesso a laboratórios e estágios.
+Atendimento Financeiro e Regularização: Esclarecimento de dúvidas sobre valores de mensalidades, contratos e alteração de matrizes curriculares iniciais.
+
+2. MAPEAMENTO DE LOCALIZAÇÃO E ACESSO
+
+O setor encontra-se em uma zona de alto tráfego de pedestres no campus, porém apresenta desafios de identificação visual clara devido à proximidade com outros setores de atendimento administrativo.
+
+Item Ponto de Referência Principal Adjacência Direta Estrutura Interna
+
+Descrição Detalhada Praça da Gratidão (área aberta caracterizada pelas estátuas institucionais).
+Localizada ao lado imediato da Central de Atendimento ao Aluno (CAA).
+Recepção frontal com recepcionistas para triagem rápida e sala anexa voltada especificamente para o atendimento PROUNI e FIES.
+
+3. DIAGNÓSTICO DO PROBLEMA OPERACIONAL (GARGALO DE LOCALIZAÇÃO)
+Durante o levantamento presencial, identificou-se um ruído recorrente na jornada do estudante, especialmente dos calouros:
+Confusão de Setores na Bancada "Posso Ajudar?": Os alunos frequentemente dirigem-se à recepção da Central de Atendimento ao Aluno buscando serviços da Central de Matrícula e vice-versa. Esse cruzamento constante exige que as atendentes interrompam a triagem padrão para reorientar e redirecionar os estudantes, gerando filas desnecessárias e aumento do tempo de espera.
+
+Relatório Técnico de Mapeamento — Universidade CEUMA
+
+Página 1 de 2
+
+4. CANAIS REMOTOS E HORÁRIO DE FUNCIONAMENTO
+
+Modalidade / Canal Atendimento Presencial E-mail Institucional WhatsApp Oficial Restrição de Período
+
+Dados de Acesso e Regras de Operação
+Segunda a Sexta-feira, das 08h às 20h.
+matricula.vestibular@ceuma.br (98) 99178-1978
+O atendimento presencial do setor encerra suas atividades mensais a partir do dia 15 de cada mês.
+
+5. ANÁLISE CRÍTICA E OPORTUNIDADES DE MELHORIA
+Sinalização Distinta e Colorida: Implementação de tótens orientativos ou comunicação visual em cores contrastantes na Praça da Gratidão para diferenciar a "Central de Matrícula" da "Central de Atendimento". Triagem Prévia no "Posso Ajudar?": Afixação de placas com a pergunta "Você precisa de PROUNI/FIES ou Crachá?" direcionando diretamente para a porta correspondente, antes do aluno entrar no setor equivocado. Divulgação dos Limites de Calendário: Esclarecer de forma ostensiva que o setor não funciona presencialmente após o dia 15, evitando deslocamentos desnecessários ao campus.
+6. SÍNTESE DO RELATÓRIO
+
+Síntese Executive: A Central de Matrícula desempenha um papel essencial no acolhimento e regularização de calouros na Universidade CEUMA. No entanto, sua localização física contígua à Central de Atendimento gera confusão constante de sinalização, resultando em retrabalho para os atendentes e perda de tempo para os estudantes. A otimização do setor não exige reformas estruturais, mas sim intervenções pontuais de **sinalização direcionada**, **orientação clara sobre o encerramento do atendimento no dia 15** e o **estímulo aos canais remotos (E-mail e WhatsApp)** para resolução de dúvidas simples antes do deslocamento presencial.
+
+Relatório Técnico de Mapeamento — Universidade CEUMA
+
+Página 2 de 2
+
+

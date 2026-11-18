@@ -1,0 +1,80 @@
+UNIVERSIDADE CEUMA | PROJETO MANUAL DO ALUNO — EQUIPE M25
+UNIVERSIDADE CEUMA • PROJETO MANUAL DO ALUNO
+Relatório de Pesquisa de Campo: Secretaria da Coordenação e Coordenação de Cursos
+Levantamento de Fluxos Acadêmicos, Gargalos Operacionais e Matriz de Triagem Discente
+
+Instituição: Universidade CEUMA
+Data da Coleta: Sexta-feira, 06 de novembro de 2026
+Setores Avaliados: Secretaria da Coordenação e Coordenação de Informática
+
+Equipe Responsável: Equipe M25
+Horário da Pesquisa: 15h00 às 16h40
+Fontes Entrevistadas: Funcionários do Setor e Coordenadora do Curso
+
+1. Introdução e Objetivo
+O presente relatório documenta os resultados da pesquisa de campo realizada pela equipe M25 nas dependências da Universidade CEUMA, no dia 06 de novembro de 2026, entre 15h00 e 16h40. O levantamento baseou-se nos relatos dos funcionários administrativos da Secretaria da Coordenação e da Coordenadora dos cursos da área de Informática. A investigação teve como objetivos centrais mapear os critérios reais de atendimento ao público, identificar as principais dificuldades operacionais enfrentadas pela equipe interna, categorizar as dúvidas mais frequentes por perfil de estudante e fundamentar a estruturação do Manual do Aluno e do Mapa Geográfico do campus.
+2. Escopo e Diretrizes de Atendimento da Secretaria
+Conforme apurado junto aos colaboradores do balcão da Secretaria da Coordenação, o atendimento presencial exige o cumprimento obrigatório de dois pré-requisitos simultâneos por parte do solicitante:
+• Vínculo Institucional Ativo: O discente deve estar devidamente matriculado na Universidade CEUMA. • Pertinência Acadêmica: A demanda apresentada deve ser estritamente de natureza acadêmica ou
+direcionada especificamente aos coordenadores de curso. Solicitações que não atendem a esses critérios não são processadas na secretaria, sendo imediatamente redirecionadas aos setores competentes:
+• Recebimento e Devolução de Provas: Encaminhados à Central de Atendimento ao Aluno (CAA). • Questões Financeiras (boletos, taxas, negociações): Encaminhados à Central de Atendimento ao Aluno
+(CAA). • Candidatos Não Matriculados ou Ingressantes: Direcionados à Central de Matrículas.
+3. Principais Dificuldades Encontradas no Setor
+A partir da análise conjunta das falas dos funcionários e da coordenação, foram mapeados seis gargalos estruturais e operacionais que afetam diretamente a eficiência do atendimento diário:
+
+Relatório de Pesquisa de Campo • Secretaria da Coordenação e Coordenação de Informática • 06/11/2026
+
+UNIVERSIDADE CEUMA | PROJETO MANUAL DO ALUNO — EQUIPE M25
+• Sobrecarga como Ponto Único de Triagem Informal: A coordenação absorve rotineiramente demandas alheias à sua atribuição — como suporte de TI, redefinição de senhas, achados e perdidos e orientações básicas de localização —, o que gera filas e desvia o foco das atividades pedagógicas e administrativas.
+• Desconhecimento Generalizado de Fluxos e Prazos: Observa-se um alto volume de estudantes que desconhecem os procedimentos formais no Portal do Aluno, os prazos regimentais e os canais digitais adequados para cada tipo de solicitação.
+• Ruídos e Falhas Históricas de Comunicação: Alterações operacionais e normativas recorrentes nem sempre são comunicadas com clareza e antecedência suficiente, gerando desencontro de informações tanto para o corpo discente quanto para a própria equipe da coordenação.
+• Confusão com Nomenclaturas Institucionais: Termos internos provocam interpretações equivocadas frequentes. O caso mais emblemático é o 'Kit Formando', comumente confundido pelos estudantes com o pacote festivo de formatura, quando na realidade refere-se à documentação obrigatória para a emissão do diploma.
+• Ausência de Acesso Financeiro na Coordenação: Os coordenadores de curso não dispõem de acesso sistêmico a valores de boletos, taxas de disciplinas em dependência ou condições de renegociação, impossibilitando a resolução imediata de pendências financeiras no balcão.
+• Desorientação Espacial no Campus: Devido à grande extensão física da universidade, tanto os alunos quanto os novos colaboradores enfrentam sérias dificuldades para localizar blocos, salas e setores administrativos, evidenciando a urgência de um Mapa Geográfico integrado ao Manual do Aluno.
+4. Fluxograma de Caso: Triagem e Encaminhamento
+Para ilustrar o fluxo decisório aplicado no atendimento presencial da Secretaria da Coordenação e evitar deslocamentos desnecessários dos estudantes, elaborou-se o fluxograma de caso abaixo:
+Relatório de Pesquisa de Campo • Secretaria da Coordenação e Coordenação de Informática • 06/11/2026
+
+UNIVERSIDADE CEUMA | PROJETO MANUAL DO ALUNO — EQUIPE M25
+5. Demandas Recorrentes por Perfil e Procedimentos Acadêmicos
+
+5.1. Perfil dos Calouros (Ingressantes)
+• Ambientação nos Sistemas Digitais: Falta de familiaridade com a plataforma institucional. A secretaria atua orientando o primeiro acesso ao Portal do Aluno e explicando a diferenciação entre os Ambientes Virtuais de Aprendizagem (AVA Presencial, Semipresencial e EAD).
+5.2. Perfil dos Formandos (Últimos Períodos)
+• Trabalho de Conclusão de Curso (TCC): Esclarecimento das regras vigentes e disponibilização da ficha oficial de inscrição de TCC.
+• Atividades Complementares: Requisito obrigatório para integralização curricular (ex.: 80 horas para Análise e Desenvolvimento de Sistemas; 160 horas para Ciência da Computação e Engenharia de Software). São aceitos cursos de extensão, idiomas, liderança acadêmica e publicações, respeitando os limites da tabela institucional. A secretaria orienta o envio e a validação dos certificados.
+• Colação de Grau vs. Cerimônia Simbólica: Distinção formal entre o evento comemorativo e o ato oficial de outorga de grau, destacando a obrigatoriedade da entrega completa e digitalizada do Kit Formando para expedição do diploma digital.
+5.3. Regimes e Processos Específicos
+• Reingresso e Prova de Reingresso: Voltado a estudantes em situação de abandono (sem rematrícula no semestre anterior). O principal erro operacional identificado é o preenchimento incorreto do período letivo de retorno desejado no formulário.
+• Regime Domiciliar (Amparo Legal): Aplicável a afastamentos iguais ou superiores a 7 dias (cirurgias, doenças infectocontagiosas ou acompanhamento familiar). Requer abertura de protocolo via portal com atestado médico anexado; a coordenação articula com os docentes as atividades compensatórias e o reagendamento de avaliações.
+• Regime Especial: Aplicado ao estudante reprovado em mais de 5 disciplinas. O discente permanece retido no semestre ('período fatorial'), sem avançar na matriz, até regularizar e reduzir suas pendências para o limite máximo de 5 reprovações.
+• Estágio (Obrigatório e Extracurricular): Todo o trâmite administrativo (seguro, convênio e validação) é gerenciado exclusivamente pelo Setor de Estágio. Documentos não devem ser entregues diretamente na coordenação sem tramitação prévia no setor responsável.
+
+6. Matriz de Encaminhamento Rápido de Serviços
+
+A tabela a seguir consolida o direcionamento oficial para as demandas mais frequentes relatadas durante a pesquisa, servindo como base de consulta rápida para o Manual do Aluno:
+
+Demanda ou Dúvida Recorrente
+Boletos, taxas de disciplinas, negociações, FIES e ProUni Atualização cadastral, troca de e-mail/telefone e senhas do portal Problemas de acesso ou disciplinas ausentes no AVA
+
+Setor Responsável para Encaminhamento Central de Atendimento ao Aluno (CAA) Central de Matrícula
+Suporte de TI / Atendimento da Coordenação
+
+Relatório de Pesquisa de Campo • Secretaria da Coordenação e Coordenação de Informática • 06/11/2026
+
+(Presencial/EAD)
+Emissão de declarações de matrícula regular
+Retirada de avaliações cadastradas de semestres anteriores
+Nivelamento (Português/Matemática), suporte pedagógico e estudo
+Contratos, seguros e relatórios de estágio
+
+UNIVERSIDADE CEUMA | PROJETO MANUAL DO ALUNO — EQUIPE M25
+Portal do Aluno (Autoatendimento) Secretaria Acadêmica / Atendimento NAD (Núcleo de Apoio ao Discente) Setor de Estágio
+
+7. Considerações Finais
+O levantamento realizado pela equipe M25 evidencia que a sobrecarga operacional observada na Secretaria da Coordenação e na Coordenação de Informática decorre majoritariamente da falta de informação centralizada, de ruídos na comunicação institucional e da dificuldade de orientação física no campus.
+A implementação estruturada do Manual do Aluno — contemplando a matriz de encaminhamento rápido, o esclarecimento das nomenclaturas acadêmicas e o fluxograma de triagem — em conjunto com o Mapa Geográfico da Universidade CEUMA, representa uma solução direta e eficaz para otimizar o atendimento, reduzir filas de triagem informal e proporcionar maior autonomia aos discentes.
+
+Relatório de Pesquisa de Campo • Secretaria da Coordenação e Coordenação de Informática • 06/11/2026
+
+
